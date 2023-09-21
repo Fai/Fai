@@ -6,6 +6,7 @@
 
 - Codecademy - https://www.codecademy.com/profiles/Ruchida
 - Codewars - https://www.codewars.com/users/Fai
+- DataCamp - https://www.datacamp.com/portfolio/f2ai
 - HackerRank - https://www.hackerrank.com/Ruchida
 - Leetcode - https://leetcode.com/ruchida_pithaksiripan/
 - Replit - https://replit.com/@RuchidaPithaksi
