@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Fai (Ruchida Pithaksiripan)
-- 👀 I’m interested in software development and data science.
-- 🌱 I’m currently learning machine learning and AI.
+- 👀 I’m interested in web & software development, data science and AI.
+- 🌱 I’m currently learning React.js, Node.js, Express.js and MongoDB.
+- 💻 My experienced tech stacks are HTML, CSS, JavaScript, Python, R, SQL, C/C++ and Bash.
 - 💞️ My interests are also in coffee-related and other F&B project
 - 📫 How to reach me : @f2ai
 
