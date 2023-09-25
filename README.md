@@ -1,20 +1,29 @@
-## Say Hi
+# About Me
 - 👋 I’m @Fai (Ruchida Pithaksiripan)
 - 👀 I’m interested in web & software development, data science and AI.
+- 📫 How to reach me : @f2ai
+
+## Tech Stack
 - 🌱 I’m currently learning React.js, Node.js, Express.js and MongoDB.
 - 💻 My experienced tech stacks are HTML, CSS, JavaScript, Python, R, SQL, C/C++ and Bash.
 - 💞️ My interests are also in coffee-related and other F&B project
-- 📫 How to reach me : @f2ai
+
 
 ## Data Profile
-- [Kaggle](https://www.kaggle.com/ruchidapithaksiripan)
+### Learner
 - [DataCamp](https://www.datacamp.com/portfolio/f2ai)
+### Showcase
+- [Kaggle](https://www.kaggle.com/ruchidapithaksiripan)
 
 ## Developer Profile
+### Learner
 - [Codecademy](https://www.codecademy.com/profiles/Ruchida)
+### Challenge
 - [Codewars](https://www.codewars.com/users/Fai)
 - [HackerRank](https://www.hackerrank.com/Ruchida)
 - [Leetcode](https://leetcode.com/ruchida_pithaksiripan/)
+### Showcase
+- [Codepen](https://codepen.io/fai-the-decoder)
 - [Replit](https://replit.com/@RuchidaPithaksi)
 
 <!---
