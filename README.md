@@ -1,13 +1,12 @@
 # About Me
 - 👋 I’m @Fai (Ruchida Pithaksiripan)
-- 👀 I’m interested in web & software development, data science and AI.
-- 📫 How to reach me : @f2ai
+- 👀 I’m interested in web & software development, data science, and AI.
+- 📫 How to reach me: @f2ai
 
 ## Tech Stack
-- 🌱 I’m currently learning React.js, Node.js, Express.js and MongoDB.
-- 💻 My experienced tech stacks are HTML, CSS, JavaScript, Python, R, SQL, C/C++ and Bash.
-- 💞️ My interests are also in coffee-related and other F&B project
-
+- 🌱 I’m currently learning React.js, Node.js, Express.js, and MongoDB.
+- 💻 My experienced tech stacks are HTML, CSS, JavaScript, Python, R, SQL, C/C++, and Bash.
+- 💞️ My interests are also in coffee-related and other F&B projects.
 
 ## Data Profile
 ### Learner
@@ -25,6 +24,9 @@
 ### Showcase
 - [Codepen](https://codepen.io/fai-the-decoder)
 - [Replit](https://replit.com/@RuchidaPithaksi)
+
+## Type
+[MonkeyType](https://monkeytype.com/profile/Ruchida Pithaksiripan)
 
 <!---
 Fai/Fai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
