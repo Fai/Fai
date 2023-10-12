@@ -1,7 +1,7 @@
 # About Me
-- 👋 I’m @Fai (Ruchida Pithaksiripan)
+- 👋 Sawasdee ka, Hello everyone. I’m Ruchida Pithaksiripan, my Thai nickname is Fai.
 - 👀 I’m interested in web & software development, data science, and AI.
-- 📫 How to reach me: @f2ai
+- 📫 You can reach me via email or my [LinkedIn](https://www.linkedin.com/in/rpithaksiripan/)
 
 ## Tech Stack
 - 🌱 I’m currently learning React.js, Node.js, Express.js, and MongoDB.
