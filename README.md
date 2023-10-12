@@ -4,8 +4,9 @@
 - 📫 You can reach me via email or my [LinkedIn](https://www.linkedin.com/in/rpithaksiripan/)
 
 ## Tech Stack
-- 🌱 I’m currently learning React.js, Node.js, Express.js, and MongoDB.
-- 💻 My experienced tech stacks are HTML, CSS, JavaScript, Python, R, SQL, C/C++, and Bash.
+- 🌱 I’m currently working on MERN web application. 
+- 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, C/C++, and Bash.
+- 📈 My experienced data stacks are Python, R, SQL, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
 - 💞️ My interests are also in coffee-related and other F&B projects.
 
 ## Data Profile
