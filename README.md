@@ -27,7 +27,7 @@
 - [Replit](https://replit.com/@RuchidaPithaksi)
 
 ## Type
-[MonkeyType](https://monkeytype.com/profile/RuchidaPithaksiripan)
+[monkeytype](https://monkeytype.com/profile/Ruchida)
 
 <!---
 Fai/Fai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
