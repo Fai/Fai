@@ -17,7 +17,7 @@
 
 ## Developer Profile
 ### Learner
-- [Codecademy](https://www.codecademy.com/profiles/Ruchida)
+- [Codecademy](https://www.codecademy.com/users/Ruchida/achievements)
 ### Challenge
 - [Codewars](https://www.codewars.com/users/Fai)
 - [CodingGame](https://www.codingame.com/profile/0bc9e25d02ff92c905e5869bd77154477584375)
