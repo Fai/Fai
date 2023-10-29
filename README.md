@@ -1,6 +1,7 @@
 # About Me
-- 👋 Sawasdee ka, Hello everyone. I’m Ruchida Pithaksiripan, my Thai nickname is Fai.
-- 👀 I’m interested in web & software development, data science, and AI.
+- 👋 Sawasdee ka, Hello everyone. I’m Ruchida Pithaksiripan, and my Thai nickname is Fai.
+- 👀 I’m interested in web and software development, data science, and AI.
+- 💞️ My domain of expertise is in tech, F&B, retail, hospitality, tourism, and education, but I would love to explore more.
 - 📫 You can reach me via email or my [LinkedIn](https://www.linkedin.com/in/rpithaksiripan/)
 
 ## Tech Background
@@ -11,10 +12,9 @@
 - POSN Camp for Computer Olympiad
 
 ## Tech Stack
-- 🌱 I’m currently working on MERN web application. 
+- 🌱 I’m currently working on the MERN web application. 
 - 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, C/C++, and Bash.
 - 📈 My experienced data stacks are Python, R, SQL, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
-- 💞️ My interests are also in coffee-related and other F&B projects.
 
 ## ⌨️ Typing Speed
 [monkeytype](https://monkeytype.com/profile/Ruchida)
