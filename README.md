@@ -6,7 +6,7 @@
 ## Tech Background
 - Junior Software Developer Bootcamp, Generation Thailand
 - Data Science Bootcamp, DataRockie
-- Road to Data Engineer Bootcamp, DataTH
+- Road to Data Engineer/Analytics Engineer/Machine Learning Engineer Bootcamp, DataTH
 - Bachelor of Engineering, Major in Computer and Network, Assumption University
 - POSN Camp for Computer Olympiad
 
