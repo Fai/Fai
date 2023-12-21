@@ -4,16 +4,22 @@
 - 📫 You can reach me via email or my [LinkedIn](https://www.linkedin.com/in/rpithaksiripan/)
 
 ## Tech Background
-- Junior Software Developer Bootcamp, Generation Thailand
-- Data Science Bootcamp, DataRockie
-- Road to Data Engineer/Analytics Engineer/Machine Learning Engineer Bootcamp, DataTH
-- Bachelor of Engineering, Major in Computer and Network, Assumption University
-- POSN Camp for Computer Olympiad
+- 2024 KBTG Go Software Engineer Bootcamp, KBTG
+- 2024 KBTG Java Software Engineer Bootcamp, KBTG
+- 2023 AWS re/Start Cloud Mastery, AWS
+- 2023 Road to Machine Learning Engineer Bootcamp, DataTH
+- 2023 Road to Analytics Engineer Bootcamp, DataTH
+- 2023 Road to Data Engineer Bootcamp, DataTH
+- 2023 Junior Software Developer Bootcamp, Generation Thailand
+- 2023 Data Science Bootcamp, DataRockie
+- 2013 Bachelor of Engineering, Major in Computer and Network, Assumption University
+- 2007 POSN Camp for Computer Olympiad
 
 ## Tech Stack
 - 🌱 I’m currently learning about web and software development, data science, and AI.
 - 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, C/C++, and Bash.
 - 📈 My experienced data stacks are Python, R, SQL, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
+- 🤖 My experienced generative ai stacks are Langchain, Langroid, llama index, OpenAI API, AWS SageMaker, AWS Bedrock, Azure AI Studio, and Google Generative AI API.
 
 ## ⌨️ Typing Speed
 [monkeytype](https://monkeytype.com/profile/Ruchida)
