@@ -3,7 +3,7 @@
 - 👀 My domain of expertise is in tech, F&B, retail, hospitality, tourism, and education, but I would love to explore more.
 - 📫 You can reach me via email or my [LinkedIn](https://www.linkedin.com/in/rpithaksiripan/)
 
-## Tech Background
+## Education
 - 2024 KBTG Go Software Engineer Bootcamp, KBTG
 - 2024 KBTG Java Software Engineer Bootcamp, KBTG
 - 2023 AWS re/Start Cloud Mastery, AWS
