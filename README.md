@@ -4,9 +4,11 @@
 - 📫 You can reach me via email or my [LinkedIn](https://www.linkedin.com/in/rpithaksiripan/)
 
 ## Education
-- 2024 KBTG Go Software Engineer Bootcamp, KBTG
-- 2024 KBTG Java Software Engineer Bootcamp, KBTG
+- 2024 Go Software Engineer Bootcamp, KBTG
+- 2024 Java Software Engineer Bootcamp, KBTG
+- 2024 C Piscine, 42Bangkok
 - 2023 AWS re/Start Cloud Mastery, AWS
+- 2023 Microsoft Azure AI-102 Training, CWB
 - 2023 Road to Machine Learning Engineer Bootcamp, DataTH
 - 2023 Road to Analytics Engineer Bootcamp, DataTH
 - 2023 Road to Data Engineer Bootcamp, DataTH
