@@ -10,6 +10,7 @@
 - 🤖 My experienced generative ai stacks are Langchain, Langroid, llama index, OpenAI API, AWS SageMaker, AWS Bedrock, Azure AI Studio, and Google Generative AI API.
 
 ## Experience and Achievement
+- 2024 Microsft Certified Azure AI Engineer Associate
 - 2023 AWS x Databricks LLM ASEAN Cup, Participant - Python, Langchain, AWS SageMaker, Huggingface, Dolly, OpenAI
 - 2023 Bangkok AI Hackathon, Finalist for Track 3 (AI Application) - Python, Langchain, OpenAI, Streamlit, AWS EC2, AWS Translate
 - 2023 Fitness Web Application - JavaScript, React, Node, Express, MongoDB, Vercel, Render
