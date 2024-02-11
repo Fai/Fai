@@ -15,6 +15,15 @@
 - 2023 Bangkok AI Hackathon, Finalist for Track 3 (AI Application) - Python, Langchain, OpenAI, Streamlit, AWS EC2, AWS Translate
 - 2023 HacktoberFest Open Source Contributor - MongoDB Thailand
 - 2023 Fitness Web Application - JavaScript, React, Node, Express, MongoDB, Vercel, Render
+- 2017 Guesthouse Website - Wordpress
+- 2016 UNDP LN1B - Facilitator
+- 2015 Digital Wellness Forum - Facilitator
+- 2016 Anyone Can Teach Anyone Can Code - Instructor
+- 2015 Open Data Hackathon: Health Viz - Facilitator
+- 2015 Microsoft YouthSpark #WeSpeakCode Thailand
+- 2015 Wordpress Workshop for Business - Instructor Assistant
+- 2015 Code.org: An Hour of Code Thailand - Instructor
+- 2008 Introduction to Programming - Teacher Assistant
 
 ## Education
 - 2024 Go Software Engineer Bootcamp, KBTG
