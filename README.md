@@ -30,7 +30,7 @@
 - 2024 42 Cursus, 42 Bangkok x KMITL
 - 2024 Java Software Engineer Bootcamp, KBTG
 - 2024 C Piscine, 42 Bangkok x KMITL
-- 2023 AWS re/Start Cloud Mastery, AWS
+- 2023 AWS re/Start Graduate, AWS
 - 2023 Microsoft Azure AI-102 Training, CWB
 - 2023 Road to Machine Learning Engineer Bootcamp, DataTH
 - 2023 Road to Analytics Engineer Bootcamp, DataTH
