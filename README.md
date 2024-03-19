@@ -5,25 +5,28 @@
 
 ## Tech Stack
 - 🌱 I’m currently learning about web and software development, data science, and AI.
-- 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, C/C++, and Bash.
+- 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, Java, Go, C/C++, and Bash.
 - 📈 My experienced data stacks are Python, R, SQL, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
-- 🤖 My experienced generative AI stacks are Langchain, Langroid, llama index, OpenAI API, AWS SageMaker, AWS Bedrock, Azure AI Studio, and Google Generative AI API.
+- 🤖 My experienced generative AI stacks are Langchain, Langroid, Langfuse, llamaindex, OpenAI, AWS SageMaker, AWS Bedrock, Azure OpenAI, Duet AI.
 
 ## Experience and Achievement
-- 2024 Microsft Certified Azure AI Engineer Associate
-- 2023 AWS x Databricks LLM ASEAN Cup, Participant - Python, Langchain, AWS SageMaker, Huggingface, Dolly, OpenAI
-- 2023 Bangkok AI Hackathon, Finalist for Track 3 (AI Application) - Python, Langchain, OpenAI, Streamlit, AWS EC2, AWS Translate
-- 2023 HacktoberFest Open Source Contributor - MongoDB Thailand
-- 2023 Fitness Web Application - JavaScript, React, Node, Express, MongoDB, Vercel, Render
-- 2017 Guesthouse Website - Wordpress
-- 2016 UNDP LN1B - Facilitator
-- 2015 Digital Wellness Forum - Facilitator
-- 2016 Anyone Can Teach Anyone Can Code - Instructor
-- 2015 Open Data Hackathon: Health Viz - Facilitator
-- 2015 Microsoft YouthSpark #WeSpeakCode Thailand
-- 2015 Wordpress Workshop for Business - Instructor Assistant
-- 2015 Code.org: An Hour of Code Thailand - Instructor
-- 2008 Introduction to Programming - Teacher Assistant
+- 2024, MongoDB Associate Data Modeler 
+- 2024, AWS Certified Cloud Practitioner
+- 2024, Microsft Certified Azure AI Engineer Associate
+- 2023, AWS x Databricks LLM ASEAN Cup, Participant - Python, Langchain, AWS SageMaker, Huggingface, Dolly, OpenAI
+- 2023, SCB 10X Bangkok AI Hack, Finalist for Track 3 (AI Application) - Python, Langchain, OpenAI, Streamlit, AWS EC2, AWS Translate
+- 2023, HacktoberFest Open Source Contributor - MongoDB Thailand
+- 2023, Fitness Web Application - JavaScript, React, Node, Express, MongoDB, Vercel, Render
+- 2018-2023 Coffee Retail Operations Management - Microsoft Excel, Microsoft Finance & Operations, Microsoft Teams, GrabMerchant, LineMan Merchant, FoodPanda Merchant
+- 2017, Guesthouse Website - Wordpress
+- 2016, UNDP LN1B - Facilitator
+- 2015, Digital Wellness Forum - Facilitator
+- 2016, Anyone Can Teach Anyone Can Code - Instructor
+- 2015, Open Data Hackathon: Health Viz - Facilitator
+- 2015, Microsoft YouthSpark #WeSpeakCode Thailand
+- 2015, Wordpress Workshop for Business - Instructor Assistant
+- 2015, Code.org: An Hour of Code Thailand - Instructor
+- 2008, Introduction to Programming - Teacher Assistant
 
 ## Education
 - 2024 Go Software Engineer Bootcamp, KBTG
