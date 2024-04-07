@@ -1,16 +1,16 @@
 # About Me
 - 👋 Sawasdee ka, Hello everyone. I’m Ruchida Pithaksiripan, and my Thai nickname is Fai.
-- 👀 My domain of expertise is in tech, F&B, retail, hospitality, tourism, and education, but I would love to explore more.
+- 👀 My domain of expertises are in Tech, Education, F&B Retail Ops, Tourism & Hospitality, MICE, but I would love to explore more.
 - 📫 You can reach me via email or my [LinkedIn](https://www.linkedin.com/in/rpithaksiripan/)
 
 ## Tech Stack
-- 🌱 I’m currently learning about web and software development, data science, and AI.
+- 🌱 I’m currently passionate about web and software development, data science, and AI.
 - 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, Java, Go, C/C++, and Bash.
 - 📈 My experienced data stacks are Python, R, SQL, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
 - 🤖 My experienced generative AI stacks are Langchain, Langroid, Langfuse, llamaindex, OpenAI, AWS SageMaker, AWS Bedrock, Azure OpenAI, Duet AI.
 
 ## Experience and Achievement
-- 2024, MongoDB Associate Data Modeler 
+- 2024, MongoDB Certified Associate Data Modeler 
 - 2024, AWS Certified Cloud Practitioner
 - 2024, Microsft Certified Azure AI Engineer Associate
 - 2023, AWS x Databricks LLM ASEAN Cup, Participant - Python, Langchain, AWS SageMaker, Huggingface, Dolly, OpenAI
@@ -46,20 +46,21 @@
 ## Online Presence
 ### ⌨️ Type
 [![](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/images/githubbanner2.png?raw=true)](https://monkeytype.com/profile/Ruchida)
-<br />
-## 👾 Dev
+
+### 👾 Dev
 - [Codecademy](https://www.codecademy.com/users/Ruchida/achievements)
-- [Codewars](https://www.codewars.com/users/Fai)
-- [CodingGame](https://www.codingame.com/profile/0bc9e25d02ff92c905e5869bd77154477584375) << Most Active
+- [CodingGame](https://www.codingame.com/profile/0bc9e25d02ff92c905e5869bd77154477584375)
 - [HackerRank](https://www.hackerrank.com/Ruchida)
 - [Leetcode](https://leetcode.com/ruchida_pithaksiripan/)
-- [Codepen](https://codepen.io/fai-the-decoder)
-- [Replit](https://replit.com/@RuchidaPithaksi)
 
 ### 📈 Data
 - [DataCamp](https://www.datacamp.com/portfolio/f2ai)
 - [Kaggle](https://www.kaggle.com/ruchidapithaksiripan)
-
+<!---
+- [Codepen](https://codepen.io/fai-the-decoder)
+- [Codewars](https://www.codewars.com/users/Fai)
+- [Replit](https://replit.com/@RuchidaPithaksi)
+--->
 <!---
 Fai/Fai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
