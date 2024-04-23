@@ -1,13 +1,13 @@
 # About Me
-- 👋 Sawasdee ka, Hello everyone. I’m Ruchida Pithaksiripan, and my Thai nickname is Fai.
+- 👋 Sawasdee ka, Hello everyone. I’m Ruchida Pithaksiripan, and my Thai nickname is Fai (AKA Cotton in English).
 - 👀 My domain of expertises are in Tech, Education, F&B Retail Ops, Tourism & Hospitality, MICE, but I would love to explore more.
 - 📫 You can reach me via email or my [LinkedIn](https://www.linkedin.com/in/rpithaksiripan/)
 
 ## Tech Stack
 - 🌱 I’m currently passionate about web and software development, data science, and AI.
 - 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, Java, Go, C/C++, and Bash.
-- 📈 My experienced data stacks are Python, R, SQL, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
-- 🤖 My experienced generative AI stacks are Langchain, Langroid, Langfuse, llamaindex, OpenAI, AWS SageMaker, AWS Bedrock, Azure OpenAI, Duet AI.
+- 📈 My experienced data stacks are Python, R, SQLite, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
+- 🤖 My experienced generative AI stacks are Langchain, Langroid, Langfuse, llamaindex, OpenAI API, Microsoft Semantic Kernel, OpenAI API, Huggingface.
 
 ## Experience and Achievement
 - 2024, MongoDB Certified Associate Data Modeler 
