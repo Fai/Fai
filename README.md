@@ -52,14 +52,14 @@
 - [CodingGame](https://www.codingame.com/profile/0bc9e25d02ff92c905e5869bd77154477584375)
 - [HackerRank](https://www.hackerrank.com/Ruchida)
 - [Leetcode](https://leetcode.com/ruchida_pithaksiripan/)
-
-### 📈 Data
-- [DataCamp](https://www.datacamp.com/portfolio/f2ai)
-- [Kaggle](https://www.kaggle.com/ruchidapithaksiripan)
 <!---
 - [Codepen](https://codepen.io/fai-the-decoder)
 - [Codewars](https://www.codewars.com/users/Fai)
 - [Replit](https://replit.com/@RuchidaPithaksi)
+
+### 📈 Data
+- [DataCamp](https://www.datacamp.com/portfolio/f2ai)
+- [Kaggle](https://www.kaggle.com/ruchidapithaksiripan)
 --->
 <!---
 Fai/Fai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
