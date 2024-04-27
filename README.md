@@ -10,6 +10,8 @@
 - 🤖 My experienced generative AI stacks are Langchain, Langroid, Langfuse, llamaindex, OpenAI API, Microsoft Semantic Kernel, OpenAI API, Huggingface.
 
 ## Experience and Achievement
+- 2024, Tax API, Go (Echo)
+- 2024, Lottery API, Java (Spring Boot)
 - 2024, MongoDB Certified Associate Data Modeler 
 - 2024, AWS Certified Cloud Practitioner
 - 2024, Microsft Certified Azure AI Engineer Associate
