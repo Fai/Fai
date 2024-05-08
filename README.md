@@ -12,6 +12,7 @@
 ## Experience and Achievement
 - 2024, AI Project - Vertex AI, JavaScript (Next.js), Python, Llamaindex, Langchain, MongoDB
 - 2024, AI Project - OpenAI, JavaScript (React), Python (FastAPI)
+- 2024, Jumpbox Certified Cloud Native Practitoner Foundation
 - 2024, Tax API - Go (Echo), PostgreSQL
 - 2024, Lottery API - Java (Spring Boot), PostgreSQL
 - 2024, MongoDB Certified Associate Data Modeler 
