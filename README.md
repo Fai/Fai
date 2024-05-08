@@ -33,6 +33,7 @@
 - 2008, Introduction to Programming - Teacher Assistant
 
 ## Education
+- 2024 AI & Data Science Bootcamp, VISAI.ai
 - 2024 Go Software Engineer Bootcamp, KBTG
 - 2024 42 Cursus, 42 Bangkok x KMITL
 - 2024 Java Software Engineer Bootcamp, KBTG
