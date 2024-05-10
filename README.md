@@ -10,7 +10,7 @@
 - 🤖 My experienced generative AI stacks are Langchain, Langroid, Langfuse, llamaindex, OpenAI API, Microsoft Semantic Kernel, OpenAI API, Huggingface.
 
 ## Achievement
-[![](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a97de6df-fa2d-4852-8d1f-cd272484caa6/linked_in_profile)[![](https://images.credly.com/size/6200x200/images/8d3ec2a5-1a75-49f4-b562-fde221d1c5d1/image.png)](https://www.credly.com/badges/c5d5f7ae-5373-4cac-b229-42f712a1105a/linked_in_profile)<a href="https://learn.microsoft.com/en-gb/users/ruchida/credentials/833d5a5432d3c71c"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="200" /></a>
+[![](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a97de6df-fa2d-4852-8d1f-cd272484caa6/linked_in_profile)[![](https://images.credly.com/size/6200x200/images/8d3ec2a5-1a75-49f4-b562-fde221d1c5d1/image.png)](https://www.credly.com/badges/c5d5f7ae-5373-4cac-b229-42f712a1105a/linked_in_profile)<a href="https://learn.microsoft.com/en-gb/users/ruchida/credentials/833d5a5432d3c71c"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="200" /></a><a href="https://developerbadges.snowflake.com/7f6ae655-4362-4bfc-8556-cb91cddc70d5#gs.8ll0gc"><img src="https://templates.images.credential.net/16993732207621871545962896684017.png" width="200" /></a>
 
 <details markdown='1'><summary>Experience</summary>
   <ul>
