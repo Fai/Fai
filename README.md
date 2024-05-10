@@ -8,7 +8,7 @@
 - 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, Java, Go, C/C++, and Bash.
 - 📈 My experienced data stacks are Python, R, SQLite, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
 - 🤖 My experienced generative AI stacks are Langchain, Langroid, Langfuse, llamaindex, OpenAI API, Microsoft Semantic Kernel, OpenAI API, Huggingface.
-<details markdown='1'><summary>## Experience and Achievement</summary>
+<details markdown='1'><summary>Experience and Achievement</summary>
 - 2024, AI Project - Vertex AI, JavaScript (Next.js), Python, Llamaindex, Langchain, MongoDB
 - 2024, AI Project - OpenAI, JavaScript (React), Python (FastAPI)
 - 2024, Jumpbox Certified Cloud Native Practitoner Foundation
@@ -32,7 +32,7 @@
 - 2015, Code.org: An Hour of Code Thailand - Instructor
 - 2008, Introduction to Programming - Teacher Assistant
 </details>
-## Education
+<details markdown='1'><summary>Education</summary>
 - 2024 AI & Data Science Bootcamp, VISAI.ai
 - 2024 Go Software Engineer Bootcamp, KBTG
 - 2024 42 Cursus, 42 Bangkok x KMITL
@@ -47,13 +47,10 @@
 - 2023 Data Science Bootcamp, DataRockie
 - 2013 Bachelor of Engineering, Major in Computer and Network, Assumption University
 - 2007 POSN Camp for Computer Olympiad
-
+</details>
 ## Online Presence
-### ⌨️ Type
-[![](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/images/githubbanner2.png?raw=true)](https://monkeytype.com/profile/Ruchida)
-
 ### 👾 Dev
-- [![](https://www.codewars.com/users/Fai/badges/large)](https://www.codewars.com/users/Fai)
+[![](https://www.codewars.com/users/Fai/badges/large)](https://www.codewars.com/users/Fai)
 - [Codecademy](https://www.codecademy.com/users/Ruchida/achievements)
 - [CodingGame](https://www.codingame.com/profile/0bc9e25d02ff92c905e5869bd77154477584375)
 - [HackerRank](https://www.hackerrank.com/Ruchida)
@@ -61,11 +58,12 @@
 <!---
 - [Codepen](https://codepen.io/fai-the-decoder)
 - [Replit](https://replit.com/@RuchidaPithaksi)
-
 ### 📈 Data
 - [DataCamp](https://www.datacamp.com/portfolio/f2ai)
 - [Kaggle](https://www.kaggle.com/ruchidapithaksiripan)
 --->
+### ⌨️ Type
+[![](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/images/githubbanner2.png?raw=true)](https://monkeytype.com/profile/Ruchida)
 <!---
 Fai/Fai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
