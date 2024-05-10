@@ -8,6 +8,7 @@
 - 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, Java, Go, C/C++, and Bash.
 - 📈 My experienced data stacks are Python, R, SQLite, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
 - 🤖 My experienced generative AI stacks are Langchain, Langroid, Langfuse, llamaindex, OpenAI API, Microsoft Semantic Kernel, OpenAI API, Huggingface.
+  
 <details markdown='1'><summary>Experience and Achievement</summary>
 - 2024, AI Project - Vertex AI, JavaScript (Next.js), Python, Llamaindex, Langchain, MongoDB
 - 2024, AI Project - OpenAI, JavaScript (React), Python (FastAPI)
@@ -32,6 +33,7 @@
 - 2015, Code.org: An Hour of Code Thailand - Instructor
 - 2008, Introduction to Programming - Teacher Assistant
 </details>
+
 <details markdown='1'><summary>Education</summary>
 - 2024 AI & Data Science Bootcamp, VISAI.ai
 - 2024 Go Software Engineer Bootcamp, KBTG
@@ -48,6 +50,7 @@
 - 2013 Bachelor of Engineering, Major in Computer and Network, Assumption University
 - 2007 POSN Camp for Computer Olympiad
 </details>
+
 ## Online Presence
 ### 👾 Dev
 [![](https://www.codewars.com/users/Fai/badges/large)](https://www.codewars.com/users/Fai)
