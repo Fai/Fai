@@ -54,7 +54,7 @@
 [![](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/images/githubbanner2.png?raw=true)](https://monkeytype.com/profile/Ruchida)
 
 ### 👾 Dev
-- [![](https://www.codewars.com/users/Fai/badges/large](https://www.codewars.com/users/Fai)
+- [![](https://www.codewars.com/users/Fai/badges/large)](https://www.codewars.com/users/Fai)
 - [Codecademy](https://www.codecademy.com/users/Ruchida/achievements)
 - [CodingGame](https://www.codingame.com/profile/0bc9e25d02ff92c905e5869bd77154477584375)
 - [HackerRank](https://www.hackerrank.com/Ruchida)
