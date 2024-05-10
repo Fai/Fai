@@ -8,30 +8,20 @@
 - 💻 My experienced tech stacks are HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL, Java, Go, C/C++, and Bash.
 - 📈 My experienced data stacks are Python, R, SQLite, Spreadsheets (Google Sheets/MS Excel), Google Looker Studio, and MS Power BI.
 - 🤖 My experienced generative AI stacks are Langchain, Langroid, Langfuse, llamaindex, OpenAI API, Microsoft Semantic Kernel, OpenAI API, Huggingface.
-  
-<details markdown='1'><summary>Experience and Achievement</summary>
-- 2024, AI Project - Vertex AI, JavaScript (Next.js), Python, Llamaindex, Langchain, MongoDB
-- 2024, AI Project - OpenAI, JavaScript (React), Python (FastAPI)
-- 2024, Jumpbox Certified Cloud Native Practitoner Foundation
-- 2024, Tax API - Go (Echo), PostgreSQL
-- 2024, Lottery API - Java (Spring Boot), PostgreSQL
-- 2024, MongoDB Certified Associate Data Modeler 
-- 2024, AWS Certified Cloud Practitioner
-- 2024, Microsft Certified Azure AI Engineer Associate
-- 2023, AWS x Databricks LLM ASEAN Cup, Participant - Python, Langchain, AWS SageMaker, Huggingface, Dolly, OpenAI
-- 2023, SCB 10X Bangkok AI Hack, Finalist for Track 3 (AI Application) - Python, Langchain, OpenAI, Streamlit, AWS EC2, AWS Translate
-- 2023, HacktoberFest Open Source Contributor - MongoDB Thailand
-- 2023, Fitness Web Application - JavaScript, React, Node, Express, MongoDB, Vercel, Render
-- 2018-2023 Coffee Retail Operations Management - Microsoft Excel, Microsoft Finance & Operations, Microsoft Teams, GrabMerchant, LineMan Merchant, FoodPanda Merchant
-- 2017, Guesthouse Website - Wordpress
-- 2016, UNDP LN1B - Facilitator
-- 2015, Digital Wellness Forum - Facilitator
-- 2016, Anyone Can Teach Anyone Can Code - Instructor
-- 2015, Open Data Hackathon: Health Viz - Facilitator
-- 2015, Microsoft YouthSpark #WeSpeakCode Thailand
-- 2015, Wordpress Workshop for Business - Instructor Assistant
-- 2015, Code.org: An Hour of Code Thailand - Instructor
-- 2008, Introduction to Programming - Teacher Assistant
+
+## Achievement
+[![](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a97de6df-fa2d-4852-8d1f-cd272484caa6/linked_in_profile)[![](https://images.credly.com/size/6200x200/images/8d3ec2a5-1a75-49f4-b562-fde221d1c5d1/image.png)](https://www.credly.com/badges/c5d5f7ae-5373-4cac-b229-42f712a1105a/linked_in_profile)<a href="https://learn.microsoft.com/en-gb/users/ruchida/credentials/833d5a5432d3c71c"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="200" /></a>
+
+<details markdown='1'><summary>Experience</summary>
+  <ul>
+    <li>2024, Chatbot Application with RAG - Vertex AI, JavaScript (Next.js), Python, Llamaindex, Langchain, MongoDB</li>
+    <li>2024, CodeGen Web Application - OpenAI, JavaScript (React), Python (FastAPI)</li>
+    <li>2024, Tax APIs - Go (Echo), PostgreSQL</li>
+    <li>2024, Lottery APIs - Java (Spring Boot), PostgreSQL</li>
+    <li>2023, AWS x Databricks LLM ASEAN Cup Participation - Python, Langchain, AWS SageMaker, Huggingface, Dolly, OpenAI</li>
+    <li>2023, SCB 10X Bangkok AI Hack, Finalist for Track 3 (AI Application) - Python, Langchain, OpenAI, Streamlit, AWS EC2, AWS Translate</li>
+    <li>2023, Fitness Web Application - JavaScript, React, Node, Express, MongoDB, Vercel, Render</li>
+  </ul>
 </details>
 
 <details markdown='1'><summary>Education</summary>
