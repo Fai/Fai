@@ -1,15 +1,14 @@
-👋 Sawasdee ka, Hello everyone. 📫 You can reach me via
+# 👋 Sawasdee ka, Hello everyone.
+- 🎓 I'm a Computer Systems and Network Engineering Bachelor from Assumption University.
+- 🌱 I’m currently passionate in Software development 💻, Data Science 📈, and Artificial Intelligence 🤖.
+- 📫 You can reach me via
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rpithaksiripan/)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-# About Me
-- 🎓 I'm a Computer Systems and Network Engineering Bachelor from Assumption University.
-- 🌱 I’m currently passionate in Software development 💻, Data Science 📈, and Artificial Intelligence 🤖.
-
-## Experience
+## Achievements
 
 [![](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a97de6df-fa2d-4852-8d1f-cd272484caa6/linked_in_profile)[![](https://images.credly.com/size/200x200/images/8d3ec2a5-1a75-49f4-b562-fde221d1c5d1/image.png)](https://www.credly.com/badges/c5d5f7ae-5373-4cac-b229-42f712a1105a/linked_in_profile)<a href="https://learn.microsoft.com/en-gb/users/ruchida/credentials/833d5a5432d3c71c"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="200" /></a>
 
@@ -25,7 +24,7 @@
   </ul>
 </details>
 
-### 👾 Dev
+### 👾 Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
