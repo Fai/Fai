@@ -1,6 +1,6 @@
 # 👋 Sawasdee ka, Hello everyone.
-- 🎓 I'm a Computer Systems and Network Engineering Bachelor from Assumption University.
-- 🌱 I’m currently passionate in Software development 💻, Data Science 📈, and Artificial Intelligence 🤖.
+- 🎓 I'm Computer Systems and Network Engineering graduate from Assumption University, currently studying M.S. in AI.
+- 🌱 I’m passionate in Software development 💻, Data Science 📈, and Artificial Intelligence 🤖.
 - 📫 You can reach me via
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rpithaksiripan/)
