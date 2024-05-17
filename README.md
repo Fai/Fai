@@ -92,6 +92,7 @@
 <details markdown='1'><summary>Bootcamp & Training</summary>
   <ul>
     <li>2024 42 Cursus, 42 Bangkok x KMITL</li>
+    <li>2024 Go Software Engineer Bootcamp, KBTG</li>
     <li>2024 Java Software Engineer Bootcamp, KBTG</li>
     <li>2024 C Piscine, 42 Bangkok x KMITL</li>
     <li>2023 AWS re/Start Graduate, AWS</li>
