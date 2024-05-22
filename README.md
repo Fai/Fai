@@ -1,5 +1,5 @@
 # 👋 Sawasdee ka, Hello everyone.
-- 🎓 I'm Computer Systems and Network Engineering graduate from Assumption University, currently studying M.S. in AI.
+- 🎓 I'm Computer Systems and Network Engineering graduate from Assumption University, currently studying M.S. in Applied AI.
 - 🌱 I’m passionate in Software development 💻, Data Science 📈, and Artificial Intelligence 🤖.
 - 📫 You can reach me via
 
