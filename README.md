@@ -88,7 +88,7 @@
 ## Education
 
 <a href="https://developerbadges.snowflake.com/7f6ae655-4362-4bfc-8556-cb91cddc70d5#gs.8ll0gc"><img src="https://templates.images.credential.net/16993732207621871545962896684017.png" width="200" /></a>[![](https://images.credly.com/size/200x200/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png)]()
-
+[![](https://images.credly.com/size/200x200/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)]([https://github.com/Fai/Fai/assets/212293/262d9add-c8d3-4e8c-9526-c61e43f96646](https://www.credly.com/badges/bd89d2c5-8b92-4e20-b1fc-c4d6b0712174/))
 <details markdown='1'><summary>Bootcamp & Training</summary>
   <ul>
     <li>2024 42 Cursus, 42 Bangkok x KMITL</li>
