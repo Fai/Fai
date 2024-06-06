@@ -118,6 +118,7 @@
 ### ⌨️ Type
 [![](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/images/githubbanner2.png?raw=true)](https://monkeytype.com/profile/Ruchida)
 
+Made with ❤️ in Bangkok, TH
 <!---
 - [CodingGame](https://www.codingame.com/profile/0bc9e25d02ff92c905e5869bd77154477584375)
 - [Leetcode](https://leetcode.com/ruchida_pithaksiripan/)
