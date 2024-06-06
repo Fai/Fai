@@ -10,7 +10,7 @@
 
 ## Achievements
 
-[![](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a97de6df-fa2d-4852-8d1f-cd272484caa6/linked_in_profile)[![](https://images.credly.com/size/200x200/images/8d3ec2a5-1a75-49f4-b562-fde221d1c5d1/image.png)](https://www.credly.com/badges/c5d5f7ae-5373-4cac-b229-42f712a1105a/linked_in_profile)<a href="https://learn.microsoft.com/en-gb/users/ruchida/credentials/833d5a5432d3c71c"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="200" /></a>
+<a href="https://learn.microsoft.com/en-gb/users/ruchida/credentials/833d5a5432d3c71c"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="200" /></a><a href="https://learn.microsoft.com/en-us/users/ruchida/credentials/certification/azure-ai-fundamentals?tab=credentials-tab"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="200" /></a>[![](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a97de6df-fa2d-4852-8d1f-cd272484caa6/linked_in_profile)[![](https://images.credly.com/size/200x200/images/8d3ec2a5-1a75-49f4-b562-fde221d1c5d1/image.png)](https://www.credly.com/badges/c5d5f7ae-5373-4cac-b229-42f712a1105a/linked_in_profile)
 
 <details markdown='1'><summary>Projects</summary>
   <ul>
