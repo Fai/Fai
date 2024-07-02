@@ -105,8 +105,9 @@
   </ul>
 </details>
 
+[![Codewars](https://www.codewars.com/users/Fai/badges/large)](https://www.codewars.com/users/Fai)
+
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/users/Ruchida/achievements)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Fai)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)]()
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/f2ai)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)]()
@@ -122,6 +123,7 @@ Made with ❤️ in Bangkok, TH
 <!---
 - [CodingGame](https://www.codingame.com/profile/0bc9e25d02ff92c905e5869bd77154477584375)
 - [Leetcode](https://leetcode.com/ruchida_pithaksiripan/)
+- [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Fai)
 - [Codepen](https://codepen.io/fai-the-decoder)
 - [Replit](https://replit.com/@RuchidaPithaksi)
 - [Kaggle](https://www.kaggle.com/ruchidapithaksiripan)
