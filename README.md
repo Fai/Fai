@@ -1,14 +1,9 @@
-# 👋 Sawasdee ka, Hello everyone.
-- 🎓 I'm Computer Systems and Network Engineering graduate from Assumption University, currently studying M.S. in Applied AI and working as an AI Engineer.
-- 🌱 I’m passionate in Artificial Intelligence 🤖, Blockchain ⛓, Cloud Technology ☁️, Data Science 📈, and Software Development 💻.
+# 👋 Sawasdee ka, Hello everyone, you can call me 'Fai'
+- 🎓 I'm Computer Systems and Network Engineering graduate from Assumption University, currently working as an AI Engineer.
+- 🌱 My passion is in Artificial Intelligence 🤖, Blockchain ⛓, Cloud Technology ☁️, Data Science 📈, and Software Development 💻.
+- 📫 Made with ❤️ in Bangkok, TH
 
-- 📫 You can reach me via
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rpithaksiripan/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rpithaksiripan)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
+<!---
 ## Achievements
 
 <a href="https://learn.microsoft.com/en-gb/users/ruchida/credentials/833d5a5432d3c71c"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="200" /></a><a href="https://learn.microsoft.com/en-us/users/ruchida/credentials/certification/azure-ai-fundamentals?tab=credentials-tab"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="200" /></a>[![](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a97de6df-fa2d-4852-8d1f-cd272484caa6/linked_in_profile)[![](https://images.credly.com/size/200x200/images/8d3ec2a5-1a75-49f4-b562-fde221d1c5d1/image.png)](https://www.credly.com/badges/c5d5f7ae-5373-4cac-b229-42f712a1105a/linked_in_profile)
@@ -120,8 +115,6 @@
 ### ⌨️ Type
 [![](https://github.com/monkeytypegame/monkeytype/blob/master/frontend/static/images/githubbanner2.png?raw=true)](https://monkeytype.com/profile/Ruchida)
 
-Made with ❤️ in Bangkok, TH
-<!---
 - [CodingGame](https://www.codingame.com/profile/0bc9e25d02ff92c905e5869bd77154477584375)
 - [Leetcode](https://leetcode.com/ruchida_pithaksiripan/)
 - [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Fai)
