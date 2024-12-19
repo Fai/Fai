@@ -1,6 +1,5 @@
-# 👋 Sawasdee ka, Hello everyone, you can call me 'Fai'
-- 🎓 I'm Computer Systems and Network Engineering graduate from Assumption University, currently working as an AI Engineer.
-- 🌱 My passion is in Artificial Intelligence 🤖, Blockchain ⛓, Cloud Technology ☁️, Data Science 📈, and Software Development 💻.
+# 👋 Hello world, I'm Fai, an AI Engineer.
+- 🌱 Research about LLM Agent for Software Development.
 - 📫 Made with ❤️ in Bangkok, TH
 
 <!---
