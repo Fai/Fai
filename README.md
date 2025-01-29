@@ -1,6 +1,6 @@
 # 👋 Hello world, I'm Fai, an AI Engineer.
 - 🌱 Research about LLM Agent for Software Development.
-- 📫 Made with ❤️ in Bangkok, TH
+- 📫 Made with ❤️ in Thailand
 
 <!---
 ## Achievements
