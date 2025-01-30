@@ -1,5 +1,5 @@
 # 👋 Hello world, I'm Fai, an AI Engineer.
-- 🌱 Research about LLM Agent for Software Development.
+- 🌱 Research about Large Language Model for Software Engineer.
 - 📫 Made with ❤️ in Thailand
 
 <!---
