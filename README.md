@@ -1,5 +1,5 @@
-# 👋 Hello world, I'm Fai, an AI Engineer.
-- 🌱 Research about Large Language Model for Software Engineer.
+# 👋 Hello world, I'm Fai, an AI Engineer working in a Thai Startup.
+- 🌱 I'm passionate about AI/ML esp. LLM, Cloud, Security and Software Engineer.
 - 📫 Made with ❤️ in Thailand
 
 <!---
