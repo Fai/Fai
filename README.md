@@ -1,4 +1,4 @@
-# 👋 Hello world, I'm Fai, an AI Engineer working in a Thai Startup.
+# 👋 Hello world, I'm Fai, an AI Engineer.
 - 🌱 I'm passionate about AI/ML esp. LLM, Cloud, Security and Software Engineer.
 - 📫 Made with ❤️ in Thailand
 
