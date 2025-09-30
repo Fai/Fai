@@ -1,5 +1,5 @@
-# 👋 Hello world, I'm Fai, an AI Engineer.
-- 🌱 I'm passionate about AI/ML, LLM, Cloud, DevSecOps, and Software Engineering.
+# 👋 Hello world, I'm Fai, an Engineer.
+- 🌱 I'm passionate about AI/ML, Blockchain, Cloud, DevSecOps, and Software Engineering.
 - 📫 As my company workloads are on GitLab, GitHub projects are mostly my side projects and OSS.
 - ❤️ Made with Love in Thailand.
 
