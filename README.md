@@ -1,6 +1,6 @@
 # 👋 Hello world, I'm Fai, an Engineer.
 - 🌱 I'm passionate about AI/ML, Blockchain, Cloud, DevSecOps, and Software Engineering.
-- 📫 As my company workloads are on GitLab, GitHub projects are mostly my side projects and OSS.
+- 📫 GitHub projects are mostly my side projects and OSS.
 - ❤️ Made with Love in Thailand.
 
 <!---
